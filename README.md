@@ -13,3 +13,5 @@ OpenCore0.6.6，开机卡EB，暂不能使用，希望有同款机型想黑苹�
 | 网卡 | Intel AX201|
 
 BIOS设置参照的https://github.com/myd986/LG-gram-14z990 解锁了CFG，卡EB原因未知。
+这位兄台可以安装运行Big Sur版
+https://github.com/AskDavis/LG-Gram-17Z90N
