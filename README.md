@@ -12,6 +12,7 @@ OpenCore0.6.6，开机卡EB，暂不能使用，希望有同款机型想黑苹�
 | 声卡 | Conexant CX8200|
 | 网卡 | Intel AX201|
 
-BIOS设置参照的https://github.com/myd986/LG-gram-14z990 解锁了CFG，卡EB原因未知。
+BIOS设置参照的https://github.com/myd986/LG-gram-14z990 解锁了CFG，卡EB原因应该是原厂自带固态为三星盘，不支持。
 这位兄台可以安装运行Big Sur版
 https://github.com/AskDavis/LG-Gram-17Z90N
+现在根据这位兄台的EFI添加了禁用原厂三星盘后可以运行黑苹果。
